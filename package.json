@@ -1,0 +1,25 @@
+{
+  "name": "20210302",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gzc": "lessc css/index.less css/index.min.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeLesd/20210302.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeLesd/20210302/issues"
+  },
+  "homepage": "https://github.com/KeLesd/20210302#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "less": "^4.1.1"
+  }
+}
